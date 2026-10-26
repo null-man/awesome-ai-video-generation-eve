@@ -113,6 +113,9 @@ Animate still images.
 | [MyHeritage Deep Nostalgia](https://myheritage.com) | Old photos | Consumer-focused |
 | [Kaiber](https://kaiber.ai) | Music videos | Artistic style transfer |
 | [LeiaPix](https://leiapix.com) | 3D depth | 2D to 3D conversion |
+| [KDA Firestarter AI Dance](https://kdafirestarterai.dev) | Paid from $7.99 | Photo→solo dance | 13s 480p 21:9; unofficial, not affiliated with Riot Games/K/DA |
+| [A2O LITE NEON AI Dance](https://a2oliteai.org) | Paid from $7.99 | Two photos→neon duo dance | 15s 480p 16:9 with reference soundtrack |
+| [dime dime baby ai](https://dimedimebabyai.dev) | Paid from $7.99 | Photo→vertical AI dance | ~5s 480p 9:16 (Quince Classic / Party Groove) |
 
 ## Open Source
 
