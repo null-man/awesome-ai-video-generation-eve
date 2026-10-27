@@ -118,9 +118,9 @@ Animate still images.
 | [dime dime baby ai](https://dimedimebabyai.dev) | Paid from $7.99 | Photo→vertical AI dance | ~5s 480p 9:16 (Quince Classic / Party Groove) |
 | [PromptImage](https://promptimage.cloud) | Freemium | Free AI image & video studio with prompt library. | Signup credits; multi-model |
 | [GrokVideo Studio](https://grokvideogenerator.dev) | Free Trial | Independent text/image-to-video via Grok Imagine API. | Not affiliated with xAI/X |
-| [Alors On Danse Video Maker](https://alorsondansevideo.com) | Free Trial | Independent text/image-to-video via Grok Imagine API. | Not affiliated with xAI/X |
-| [Bad Times AI](https://badtimesai.dev) | Free Trial | Independent text/image-to-video via Grok Imagine API. | Not affiliated with xAI/X |
-| [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com) | Free Trial | Independent text/image-to-video via Grok Imagine API. | Not affiliated with xAI/X |
+| [Alors On Danse Video Maker](https://alorsondansevideo.com) | Paid | Independent: two photos → 13s studio dance video. | Not affiliated with Stromae/TikTok |
+| [Bad Times AI](https://badtimesai.dev) | Paid | Independent AI dance effect: one photo → 14–15s. | From $7.99 one-time |
+| [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com) | Paid | Independent AI scene effect: two photos → meeting clip. | From $7.99; unofficial |
 
 ## Open Source
 
